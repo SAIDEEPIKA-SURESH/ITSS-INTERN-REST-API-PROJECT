@@ -122,6 +122,10 @@ git commit -m "Add your changes"
 # Push to your forked repository
 git push origin feature/your-feature-name
 Then open a Pull Request on GitHub.
+![Screenshot 2025-07-08 163932](https://github.com/user-attachments/assets/ba439fc6-c591-43d1-a022-36d16a492da0)
+
+![Screenshot 2025-07-08 164057](https://github.com/user-attachments/assets/991211d3-2b03-41a5-bcf4-61c7cd0a6f7c)
+
 
 SAI DEEPIKA S
 ITSS INTERN
