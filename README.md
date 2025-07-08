@@ -122,10 +122,21 @@ git commit -m "Add your changes"
 # Push to your forked repository
 git push origin feature/your-feature-name
 Then open a Pull Request on GitHub.
-![Screenshot 2025-07-08 163932](https://github.com/user-attachments/assets/ba439fc6-c591-43d1-a022-36d16a492da0)
 
-![Screenshot 2025-07-08 164057](https://github.com/user-attachments/assets/991211d3-2b03-41a5-bcf4-61c7cd0a6f7c)
+**OUTPUT :**
 
+![Screenshot 2025-07-08 163932](https://github.com/user-attachments/assets/f4371075-19d3-481a-9a29-0aa33fb56476)
+![Screenshot 2025-07-08 164039](https://github.com/user-attachments/assets/d7010269-ab2d-4046-99d3-2d6d67741c64)
+![Screenshot 2025-07-08 164057](https://github.com/user-attachments/assets/a38d197e-ae58-4508-a495-1ac23196b3b6)
+![Screenshot 2025-07-08 164114](https://github.com/user-attachments/assets/8c9ee2e7-3ce6-4bc0-b2d8-d8ff1654feaf)
+![Screenshot 2025-07-08 164128](https://github.com/user-attachments/assets/de4400d2-595a-46a9-b18c-755415083146)
+![Screenshot 2025-07-08 164141](https://github.com/user-attachments/assets/234ca89e-1059-4761-abbc-1431ff19ac23)
+![Screenshot 2025-07-08 164159](https://github.com/user-attachments/assets/0f9a4696-9921-4272-a699-9199ac7fdf69)
+![Screenshot 2025-07-08 164217](https://github.com/user-attachments/assets/0f3e693f-ce2e-4d4e-a9c0-1a52f0610cd8)
+![Screenshot 2025-07-08 164231](https://github.com/user-attachments/assets/ba2dedfc-e4b4-445c-9105-78e34ca6226d)
+![Screenshot 2025-07-08 164241](https://github.com/user-attachments/assets/c17a107b-e12f-42ac-9ab3-753fb0087cd3)
+![Screenshot 2025-07-08 164252](https://github.com/user-attachments/assets/30552b8a-e983-4508-9c86-b563cb9bff6c)
+![Screenshot 2025-07-08 164301](https://github.com/user-attachments/assets/57851434-e19b-451b-9445-1bacc287f1dd)
 
 SAI DEEPIKA S
 ITSS INTERN
